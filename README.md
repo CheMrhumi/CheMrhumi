@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, I'm Che Marhumi Bin Che Ab Rahim👋
 
-<!--
-**CheMrhumi/CheMrhumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😎 Or I go with the name Che.
 
-Here are some ideas to get you started:
+👩‍🎓 A freshmen data engineering student from Universiti Teknologi Malaysia. Passionate about 📊 data analysis and 💻 software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+📚 Learning the fundamentals of GitHub
+
+## Skills
+
+💻 C,C++,Java,HTML
+
+## Education
+
+🎓 BSc in Data Engineering, University of Technology Malaysia, 2022-present
+
+## Contact
+
+📧 Find me on email me at chemarhumi@graduate.utm.my
+
+---
+
+
